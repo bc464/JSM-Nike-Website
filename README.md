@@ -1,8 +1,7 @@
-# React + Vite
+# JSMastery Build and Deploy a Nike Website
+Tailwind CSS Full Course 2023
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Screenshot 2023-08-27 at 12-05-53 Nike Website](https://github.com/bc464/JSM-Nike-Website/assets/82536545/15377c66-6b18-4726-92ad-aa4df31f53fe)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
